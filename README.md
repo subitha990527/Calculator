@@ -12,12 +12,8 @@ A simple, responsive calculator built using HTML, CSS, and JavaScript. This proj
   - Delete (`DE`) button to remove the last entered character.
   - Decimal support for fractional calculations.
 
-## Demo
-
-You can view and use the calculator live [here](#).
-
 ## Installation
 
  Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-project.git
+   git clone https://github.com/subitha990527/Calculator.git
